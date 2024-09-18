@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#dropdown{
+    background-color: #F5EFF7 ;
+}
+.flex-grow{
+    background-color: #F5EFF7;
+}
+
+.list0{
+    width: 600px;
+}
+.list1{
+    
+    width: 600px;
+}
+.list2{
+    width: 600px;
+}
+.list3{
+    width: 600px;
+}
+.list4{
+    width: 600px;
+}
+.list5{
+    width: 600px;
+}
+.list6{
+    width: 600px;
+}
+
+
